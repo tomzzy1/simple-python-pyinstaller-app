@@ -5,6 +5,7 @@ the calc.py library's 'add2' function.
 
 import sys
 import calc
+import numpy
 
 argnumbers = len(sys.argv) - 1
 
